@@ -1,5 +1,6 @@
 <div style="display: flex; justify-content: center; flex-wrap: wrap; margin-bottom: 20px;">
-  <img src="https://github.com/omh1004/omh1004/blob/main/omhdev.png" alt="Coding Character" width="800" height="300" />
+  <p>능이버섯이다</p>
+<!--   <img src="https://github.com/omh1004/omh1004/blob/main/omhdev.png" alt="Coding Character" width="800" height="300" /> -->
 </div>
 <div style="display: flex; justify-content: space-around; align-items: flex-start; margin-top: 30px; font-family: 'Arial, sans-serif';">
   <div style="width: 45%; text-align: left; border-right: 1px solid #ddd; padding-right: 20px;">
