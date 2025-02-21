@@ -1,7 +1,3 @@
-<div style="display: flex; justify-content: center; flex-wrap: wrap; margin-bottom: 20px;">
-  <img src="https://mblogthumb-phinf.pstatic.net/MjAyMDA3MjBfMTgy/MDAxNTk1MjQzMTkyMjA5.GKgGSNqJ49OGewWMMkpyKNkEe4pFFmswyFEEzt0NDBIg.ZHb4PIc2jniTx9lgC9cOF6bwyyBJ7CgnRkrzRrraMu4g.JPEG.suminpie/1595243191126.jpg?type=w800" alt="능이버섯" width="250" height="200"/>
-  <img src="https://mblogthumb-phinf.pstatic.net/MjAyMDA3MjdfNDIg/MDAxNTk1ODMwMzkwMjQ3.m0ERSAGuB4UHEoRqPs7_hR6_z5c6gpTYPzQCVD1WZ_Qg.HSjsHeT6gKYMQ2afGPneUTvLnYXvNSuMIT5gcmtjX10g.JPEG.arcane23/IMG_7363.JPG?type=w800" alt="능이버섯" width="250" height="200"/>
-</div>
 <div style="display: flex; justify-content: space-around; align-items: flex-start; margin-top: 30px; font-family: 'Arial, sans-serif';">
   <div style="width: 45%; text-align: left; border-right: 1px solid #ddd; padding-right: 20px;">
     <h1 style="font-size: 2em; color: #4CAF50;">
@@ -22,6 +18,11 @@
 <!--       <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /> -->
             <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+      <div style="display: flex; justify-content: center; flex-wrap: wrap; margin-bottom: 20px;">
+        <img src="https://mblogthumb-phinf.pstatic.net/MjAyMDA3MjBfMTgy/MDAxNTk1MjQzMTkyMjA5.GKgGSNqJ49OGewWMMkpyKNkEe4pFFmswyFEEzt0NDBIg.ZHb4PIc2jniTx9lgC9cOF6bwyyBJ7CgnRkrzRrraMu4g.JPEG.suminpie/1595243191126.jpg?type=w800" alt="능이버섯" width="250" height="200"/>
+        <img src="https://mblogthumb-phinf.pstatic.net/MjAyMDA3MjdfNDIg/MDAxNTk1ODMwMzkwMjQ3.m0ERSAGuB4UHEoRqPs7_hR6_z5c6gpTYPzQCVD1WZ_Qg.HSjsHeT6gKYMQ2afGPneUTvLnYXvNSuMIT5gcmtjX10g.JPEG.arcane23/IMG_7363.JPG?type=w800" alt="능이버섯" width="250" height="200"/>
+      </div>
       
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongJoon-Yang&show_icons=true&theme=radical)
 
