@@ -3,6 +3,10 @@
     <h1 style="font-size: 2em; color: #4CAF50;">
       <strong>능이버섯이다</strong>
     </h1>
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; margin-bottom: 20px;">
+      <img src="https://mblogthumb-phinf.pstatic.net/MjAyMDA3MjBfMTgy/MDAxNTk1MjQzMTkyMjA5.GKgGSNqJ49OGewWMMkpyKNkEe4pFFmswyFEEzt0NDBIg.ZHb4PIc2jniTx9lgC9cOF6bwyyBJ7CgnRkrzRrraMu4g.JPEG.suminpie/1595243191126.jpg?type=w800" alt="능이버섯" width="250" height="200"/>
+      <img src="https://mblogthumb-phinf.pstatic.net/MjAyMDA3MjdfNDIg/MDAxNTk1ODMwMzkwMjQ3.m0ERSAGuB4UHEoRqPs7_hR6_z5c6gpTYPzQCVD1WZ_Qg.HSjsHeT6gKYMQ2afGPneUTvLnYXvNSuMIT5gcmtjX10g.JPEG.arcane23/IMG_7363.JPG?type=w800" alt="능이버섯" width="250" height="200"/>
+    </div>
     <div style="text-align: center; margin-bottom: 20px;">
     </div>
     <div style="display: flex; justify-content: center; flex-wrap: wrap; margin-bottom: 20px;">
@@ -26,9 +30,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeongJoon-Yang&layout=compact&theme=dracula)
     </div>
   </div>
-</div>
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap; margin-bottom: 20px;">
-  <img src="https://mblogthumb-phinf.pstatic.net/MjAyMDA3MjBfMTgy/MDAxNTk1MjQzMTkyMjA5.GKgGSNqJ49OGewWMMkpyKNkEe4pFFmswyFEEzt0NDBIg.ZHb4PIc2jniTx9lgC9cOF6bwyyBJ7CgnRkrzRrraMu4g.JPEG.suminpie/1595243191126.jpg?type=w800" alt="능이버섯" width="250" height="200"/>
-  <img src="https://mblogthumb-phinf.pstatic.net/MjAyMDA3MjdfNDIg/MDAxNTk1ODMwMzkwMjQ3.m0ERSAGuB4UHEoRqPs7_hR6_z5c6gpTYPzQCVD1WZ_Qg.HSjsHeT6gKYMQ2afGPneUTvLnYXvNSuMIT5gcmtjX10g.JPEG.arcane23/IMG_7363.JPG?type=w800" alt="능이버섯" width="250" height="200"/>
 </div>
